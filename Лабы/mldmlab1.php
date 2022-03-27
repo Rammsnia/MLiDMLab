@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Лабораторная работа 1</title>
     <link rel="stylesheet" href="/Styles/styles.css">
-    <script type="text/javascript" src="/scripts/scripts.js"></script>
+    <script type="text/javascript" src="/scripts/ScriptsForlLab1.js"></script>
 </head>
 <body>
 <h1>Лабораторная работа по МЛиДМ №1 (22 Вариант)<br> Старостин Кирилл ИВТАПбд-11</h1>
